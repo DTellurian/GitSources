@@ -14,11 +14,10 @@ int main(void)
     {
         //TODO:: Please write your application code 
 		Changes!
-<<<<<<< HEAD
-		
+	
 		Branch changes!
-=======
+
 		Changes in master!
->>>>>>> master
+
     }
 }
